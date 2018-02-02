@@ -8,7 +8,7 @@ if (value > 0) {
     alert("Wynik jest dodatni i wynosi:" + value);
   } else if (value == 0) {
     alert("Wynik to zero");
-  } else if {
+  } else if (value < 0){
     alert("Wynik jest ujemny i wynosi: " + value);
   } else {
     alert("nie podales poprawnie danych";
