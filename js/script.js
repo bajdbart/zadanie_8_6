@@ -6,7 +6,7 @@ console.log('Value is equal to: ' + value);
 
 if (value > 0) {
     alert("Wynik jest dodatni i wynosi:" + value);
-  } else if (value == 0) {
+  } else if (value === 0) {
     alert("Wynik to zero");
   } else if (value < 0){
     alert("Wynik jest ujemny i wynosi: " + value);
